@@ -1,3 +1,3 @@
 # curso-talento-t
 ejercicios
-miprimer repositorio 
+mi primer repositorio 
